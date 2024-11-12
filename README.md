@@ -1,10 +1,10 @@
-🚀 Cleaner
+# 🚀 Cleaner
 
-📋 Overview
+ # 📋 Overview
 
 Welcome to Cleaner — a reliable and lightning-fast script designed to optimize your Windows PC performance effortlessly. Our tool focuses on cleaning junk files, temporary files, and unnecessary cache, providing a significant speed boost while keeping your system clutter-free. No more sluggish startups or low disk space warnings!
 
-✨ Features
+# ✨ Features
 
 Blazing Fast Performance: Cleans and optimizes your PC in seconds.
 
@@ -53,7 +53,7 @@ clean_pc_script.bat
 
 
 
-🔒 Security & Legitimacy
+# 🔒 Security & Legitimacy
 
 Our script is open-source and has been tested rigorously to ensure:
 
@@ -66,7 +66,7 @@ No access to personal files or sensitive data
 
 You can review the script's code to see exactly what it does. Transparency is key!
 
-📥 Installation
+# 📥 Installation
 
 1. Download the script from the Files section.
 
@@ -78,14 +78,14 @@ You can review the script's code to see exactly what it does. Transparency is ke
 
 
 
-⚠️ Requirements
+# ⚠️ Requirements
 
 Windows 10/11 or Windows 8.1 (64-bit)
 
 Administrator privileges for full cleaning access
 
 
-🚀 Performance Tests
+# 🚀 Performance Tests
 
 Compared with traditional PC cleaner tools, our script has shown to be:
 
@@ -94,15 +94,15 @@ Compared with traditional PC cleaner tools, our script has shown to be:
 30% more effective in freeing up disk space
 
 
-👨‍💻 Contributing
+# 👨‍💻 Contributing
 
 Got ideas to improve the script? Feel free to fork this repository and submit a pull request!
 
-📃 License
+# 📃 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ---
 
-⭐️ Try it out and give your PC a fresh start today!
+## ⭐️ Try it out and give your PC a fresh start today!
