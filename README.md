@@ -68,10 +68,10 @@ You can review the script's code to see exactly what it does. Transparency is ke
 
 📥 Installation
 
-1. Download the script from the Releases section.
+1. Download the script from the Files section.
 
 
-2. Extract the files to a folder of your choice.
+2. Extract the batch file into your script
 
 
 3. Run the script by double-clicking the .bat or .sh file (depending on your system).
